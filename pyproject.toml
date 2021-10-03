@@ -21,3 +21,7 @@ build-backend = "poetry.core.masonry.api"
 
 [tool.poetry.scripts]
 start = "blueprint.main:app"
+
+[app]
+# all your app configuration go here
+APP_NAME="blueprint"
