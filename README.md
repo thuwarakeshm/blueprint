@@ -2,7 +2,7 @@
 
 Blueprint is an exampel python project you can use to build maintainable applications. The details on the best practices followed in this project are explained in [The Analytics Club](https://www.the-analytics.club)
 
-If you like this, <a href='https://ko-fi.com/analyticsclub' target='_blank'><img height='35' style='border:0px;height:46px;' src='https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0' border='0' alt='Buy Me a Coffee at ko-fi.com' />
+<a href='https://ko-fi.com/analyticsclub' target='_blank'><img height='35' style='border:0px;height:46px;' src='https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0' border='0' alt='Buy Me a Coffee at ko-fi.com' />
 
 ## Installation
 
