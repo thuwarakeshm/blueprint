@@ -15,6 +15,7 @@ black = "^21.9b0"
 pre-commit = "^2.15.0"
 isort = "^5.9.3"
 autoflake = "^1.4"
+mkdocs-material = "^7.3.1"
 
 [build-system]
 requires = ["poetry-core>=1.0.0"]
